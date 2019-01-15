@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">compass-sensor</string>
+    <string name="bearing_f">Bearing: %f</string>
+</resources>
